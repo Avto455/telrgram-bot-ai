@@ -19,7 +19,7 @@ from dotenv import load_dotenv
 
 
 API_ID = 2040
-API_HASH = 'b18441a1f7f8f7e10e9f9f91a5e62e627'
+API_HASH = ''
 #BASE_URL = 'https://api.kinopoisk.dev'
 
 file_path = 'C:\тг_апи.txt'
@@ -142,7 +142,7 @@ if zov == 1:
 
 elif zov == 2:
 
-    API_KEY = "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"
+    API_KEY = ""
     API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
     
